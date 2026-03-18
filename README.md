@@ -1,6 +1,6 @@
 # diffview
 
-[![Demo](https://img.youtube.com/vi/2V4SamtHwR4/0.jpg)](https://youtu.be/2V4SamtHwR4)
+![Demo](demo.gif)
 
 Side-by-side terminal diff viewer for git output.
 
