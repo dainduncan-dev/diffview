@@ -1,5 +1,7 @@
 # diffview
 
+https://youtu.be/2V4SamtHwR4
+
 Side-by-side terminal diff viewer for git output.
 
 ## Installation
